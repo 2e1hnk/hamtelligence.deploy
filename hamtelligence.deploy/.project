@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>hamtelligence.deploy</name>
+	<comment></comment>
+	<projects>
+		<project>hamtelligence.core</project>
+		<project>hamtelligence.scraper</project>
+		<project>hamtelligence.web</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
